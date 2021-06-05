@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/madreact/static/css/main.f44601f3.chunk.css",
+    "main.js": "/madreact/static/js/main.518b4873.chunk.js",
+    "main.js.map": "/madreact/static/js/main.518b4873.chunk.js.map",
+    "runtime-main.js": "/madreact/static/js/runtime-main.fb82c515.js",
+    "runtime-main.js.map": "/madreact/static/js/runtime-main.fb82c515.js.map",
+    "static/js/2.4fc59283.chunk.js": "/madreact/static/js/2.4fc59283.chunk.js",
+    "static/js/2.4fc59283.chunk.js.map": "/madreact/static/js/2.4fc59283.chunk.js.map",
+    "static/js/3.71a98f27.chunk.js": "/madreact/static/js/3.71a98f27.chunk.js",
+    "static/js/3.71a98f27.chunk.js.map": "/madreact/static/js/3.71a98f27.chunk.js.map",
+    "index.html": "/madreact/index.html",
+    "static/css/main.f44601f3.chunk.css.map": "/madreact/static/css/main.f44601f3.chunk.css.map",
+    "static/js/2.4fc59283.chunk.js.LICENSE.txt": "/madreact/static/js/2.4fc59283.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/madreact/static/media/bg-intro-desktop.059183ee.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fb82c515.js",
+    "static/js/2.4fc59283.chunk.js",
+    "static/css/main.f44601f3.chunk.css",
+    "static/js/main.518b4873.chunk.js"
+  ]
+}
